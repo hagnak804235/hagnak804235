@@ -1,4 +1,4 @@
-## Welcome to THE worst github page! 🔥
+## Welcome to THE worst github page! 
 
 #**About me**
 ├── I'm currently interested in graphics (specifically Graphics API such as OpenGL, Vulkan etc...)
